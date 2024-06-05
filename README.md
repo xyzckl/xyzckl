@@ -17,6 +17,4 @@ Jekyll uses a file titled `_config.yml` to store settings for your site, your th
 
 We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
-### :keyboard: Activity: Configure your site
-
 </footer>
