@@ -8,7 +8,7 @@
 -->
 
 # 简介
-独立智能手表软件开发者
+独立网络开发者
                                                                                                                         
                                                                                                                         
                                                                                                                         
@@ -56,6 +56,7 @@
 
 
 ## 为了 WearOS，为了 Android Watch。
-
+## 增进交互，提高网络便捷性。
+## 公告http://www.xyzckl.xyz/palestine.html
 > 2022-2024`xyzckl`
 Xyzckl工作室，由高中学生Ly独自管理。
