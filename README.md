@@ -57,4 +57,4 @@
 ## 为了 WearOS，为了 Android Watch。
 ## 增进交互，提高网络便捷性。
 > 2022-2025`xyzckl`
-Xyzckl工作室，由高中学生Ly独自管理。
+Xyzckl工作室，由一位孤独的大学生独自管理。
