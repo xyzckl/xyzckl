@@ -1,22 +1,7 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<div align="center">
 
-# 简介
-独立网络开发者
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
                 ||||      ||||  ||||        ||||   |||||||||||||        |||||       ||||      ||||   ||||               
                 |||||    ||||    ||||      ||||    |||||||||||||      |||||||||     ||||     |||||   ||||               
                  ||||    ||||    ||||      ||||    |||||||||||||     |||||||||||    ||||    |||||    ||||               
@@ -37,32 +22,375 @@
                  ||||    ||||         ||||         ||||             |||||   ||||    ||||    |||||    ||||               
                  ||||    ||||         ||||        ||||||||||||||     |||||||||||    ||||     ||||    ||||||||||||||     
                 ||||      ||||        ||||        ||||||||||||||     ||||||||||     ||||     |||||   ||||||||||||||     
-                ||||      ||||        ||||        ||||||||||||||       |||||||      ||||      ||||   ||||||||||||||     
-                                                                         |||                                            
-                                                                                                                        
-                                                                                                                        
+                ||||      ||||        ||||        ||||||||||||||       |||||||      ||||      ||||   ||||||||||||||      
 
-## 核心理念 (Core Vision)
+</div>
 
-**xyzckl** 不是一个代号，而是我的愿景。
+<div align="center">
 
-### XYZ - Axes（方向轴）
-**多维思考，全栈视野。**
-在三维坐标系中，XYZ定义了空间的广度与深度。在技术的演进中，代表着多维度解析问题的能力，精准定位。
+<h1>xyzckl</h1>
 
-### C - Cross（跨越）
-**打破边界，融合创新。**
-生态壁垒林立，C代表跨越。无论是底层逻辑的重构、不同技术栈的结合，还是将冷峻的代码语言转化为充满温度的用户体验。致力于打破信息孤岛，实现多平台、多形态的无缝对接，让技术的价值在跨越中得到最大化释放。
+<p>
+Independent Developer · Full-Stack Engineer · System Builder
+</p>
 
-### K - Kinetic（动能）
-**敏捷迭代，内生驱动。**
-系统的生命力源于不竭的动能。K象征着极速响应与持续演进的力量。在快速变化的网络空间，敏捷开发与性能优化，为高可用、高并发的复杂程式注入强大的内生驱动力。不仅要保持运转，更要保持高效与澎湃的技术活力。
+<p>
+<a href="mailto:xyzckl@163.com">
+xyzckl@163.com
+</a>
+</p>
 
-### L - Limitless（无边）
-**无界探索，无限可能。**
-技术的边界，是用来打破的。L代表着对未知的渴望与探索的无畏。拒绝被传统范式所定义，以无边无际的想象力为导向，探索前沿科技的应用落地。从零到一，从一到无限，致力于用前瞻性的视野，创造无可估量的长期价值。
+</div>
+
+</header>
 
 ---
 
-> 2022-至今 `xyzckl`
-> Xyzckl。
+# Profile
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="60%">
+
+## Independent Developer
+
+专注于软件工程、Web 技术以及系统架构方向。
+
+持续探索如何通过可靠的软件解决实际问题，
+关注系统设计、代码质量以及长期维护价值。
+
+我的开发理念：
+
+> Engineering is not only about making things work,
+> but making them reliable, maintainable and valuable.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xyzckl&show_icons=true&hide_border=true&count_private=true" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# Identity Of xyzckl
+
+<div align="center">
+
+<h2>
+X Y Z C K L
+</h2>
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### XYZ
+
+多维探索。
+
+代表从不同角度理解技术问题，
+建立系统化思维。
+
+</td>
+
+<td width="33%">
+
+### C
+
+连接与创造。
+
+连接技术、需求与用户价值，
+让代码产生实际影响。
+
+</td>
+
+<td width="33%">
+
+### K
+
+知识与动力。
+
+持续学习，持续优化，
+保持技术成长能力。
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### L
+
+长期主义。
+
+关注稳定性、
+扩展性以及持续价值。
+
+</td>
+
+<td width="66%">
+
+### Brand Philosophy
+
+xyzckl 不只是用户名，
+而是一种工程理念：
+
+探索未知，
+连接技术，
+持续积累，
+创造长期价值。
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,go,c,cpp" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,mongodb" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
+
+</div>
+
+---
+
+# Engineering Principles
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## Reliability
+
+构建稳定可靠的软件系统。
+
+关注异常处理、
+安全性以及长期运行能力。
+
+</td>
+
+<td width="33%" align="center">
+
+## Efficiency
+
+不断优化开发流程。
+
+通过自动化、
+工具化提升效率。
+
+</td>
+
+<td width="33%" align="center">
+
+## Growth
+
+保持持续学习。
+
+通过实践积累工程经验。
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xyzckl&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xyzckl&hide_border=true" />
+
+</div>
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## Project Alpha
+
+核心项目展示区域。
+
+用于介绍：
+
+* 项目背景
+* 技术架构
+* 解决的问题
+* 实际价值
+
+</td>
+
+<td width="50%">
+
+## Project Beta
+
+用于展示个人技术积累。
+
+建议放置：
+
+* 开源项目
+* 工具项目
+* 实验性项目
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Development Timeline
+
+<table>
+
+<tr>
+
+<td>
+
+2022
+
+</td>
+
+<td>
+
+开始进行独立技术探索，
+建立个人开发方向。
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Present
+
+</td>
+
+<td>
+
+持续进行软件开发、
+系统优化以及技术研究。
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Contact
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>
+
+Email
+
+</td>
+
+<td>
+
+[xyzckl@163.com](mailto:xyzckl@163.com)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+GitHub
+
+</td>
+
+<td>
+
+https://github.com/xyzckl
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>
+
+Build Carefully.
+Improve Continuously.
+Create Long-Term Value.
+
+</h3>
+
+<p>
+
+xyzckl
+
+</p>
+
+</div>
