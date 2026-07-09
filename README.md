@@ -71,7 +71,7 @@ xyzckl@163.com
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xyzckl&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://avatars.githubusercontent.com/u/169455413" />
 
 </td>
 
