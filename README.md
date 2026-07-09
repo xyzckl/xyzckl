@@ -203,51 +203,6 @@ xyzckl@163.com
 
 ---
 
-# Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Project Alpha
-
-核心项目展示区域。
-
-用于介绍：
-
-* 项目背景
-* 技术架构
-* 解决的问题
-* 实际价值
-
-</td>
-
-<td width="50%">
-
-## Project Beta
-
-用于展示个人技术积累。
-
-建议放置：
-
-* 开源项目
-* 工具项目
-* 实验性项目
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 # Development Timeline
 
 <table>
