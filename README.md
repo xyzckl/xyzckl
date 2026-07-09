@@ -62,7 +62,7 @@ xyzckl@163.com
 持续探索如何通过可靠的软件解决实际问题，
 关注系统设计、代码质量以及长期维护价值。
 
-我的开发理念：
+开发理念：
 
 > Engineering is not only about making things work,
 > but making them reliable, maintainable and valuable.
@@ -118,7 +118,7 @@ X Y Z C K L
 
 </td>
 
-<td width="33%">
+<td width="15%">
 
 ### K
 
@@ -133,7 +133,7 @@ X Y Z C K L
 
 <tr>
 
-<td width="33%">
+<td width="15%">
 
 ### L
 
