@@ -84,82 +84,39 @@ xyzckl@163.com
 
 # Identity Of xyzckl
 
-<div align="center">
+<p align="center">
+  <strong>X · Y · Z · C · K · L</strong>
+</p>
 
-<h2>
-X Y Z C K L
-</h2>
+---
 
-</div>
-
-<table>
-
-<tr>
-
-<td width="15%">
-
-### XYZ
-
-多维探索。
-
-代表从不同角度理解技术问题，
-建立系统化思维。
-
-</td>
-
-<td width="15%">
-
-### C
-
-连接与创造。
-
-连接技术、需求与用户价值，
-让代码产生实际影响。
-
-</td>
-
-<td width="15%">
-
-### K
-
-知识与动力。
-
-持续学习，持续优化，
-保持技术成长能力。
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%">
-
-### L
-
-长期主义。
-
-关注稳定性、
-扩展性以及持续价值。
-
-</td>
-
-<td width="66%">
-
-### Brand Philosophy
-
-xyzckl 不只是用户名，
-而是一种工程理念：
-
-探索未知，
-连接技术，
-持续积累，
-创造长期价值。
-
-</td>
-
-</tr>
-
+<table width="100%">
+  <!-- 第一行：三列平分 -->
+  <tr>
+    <td width="33%" valign="top">
+      <h4>XYZ</h4>
+      <p><strong>多维探索</strong><br>从不同角度理解技术问题，建立系统化思维。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>连接与创造</h4>
+      <p><strong>C</strong><br>连接技术、需求与用户价值，让代码产生实际影响。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>K</h4>
+      <p><strong>知识与动力</strong><br>持续学习，持续优化，保持技术成长能力。</p>
+    </td>
+  </tr>
+  <!-- 第二行：L 占一列，Brand Philosophy 跨两列 -->
+  <tr>
+    <td width="33%" valign="top">
+      <h4>L</h4>
+      <p><strong>长期主义</strong><br>关注稳定性、扩展性以及持续价值。</p>
+    </td>
+    <td width="66%" colspan="2" valign="top">
+      <h4>Brand Philosophy</h4>
+      <p><strong>xyzckl</strong> 不只是用户名，而是一种工程理念：<br><em>探索未知，连接技术，持续积累，创造长期价值。</em></p>
+    </td>
+  </tr>
 </table>
 
 ---
